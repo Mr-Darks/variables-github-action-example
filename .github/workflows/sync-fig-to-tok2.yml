@@ -1,4 +1,4 @@
-name: Sync Figma variables to tokens
+name: sync-fig-to-tok2
 on:
   workflow_dispatch:
     inputs:
